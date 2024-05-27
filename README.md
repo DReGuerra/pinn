@@ -11,6 +11,6 @@ This repository contains the implementation of PINN to several applications and 
 
 ---
 ## Core Contents
-1. `python`
+1. `python`<br>
     a. `reaction_kinetics`
 
